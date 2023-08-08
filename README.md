@@ -1,10 +1,6 @@
 # Traffic-Management-System
 "Smart Traffic Control System: Real-time Traffic Management using Image Processing and ML"
-<p align="center">
- <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Timer">
-</p>
 
-<h1 align="center">Smart Traffic Signal Timer</h1>
 
 <div align="center">
 
